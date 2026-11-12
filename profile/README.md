@@ -121,7 +121,6 @@ worklist charges for what it works, with no seats and no minimums. Prices drop w
 |---|---|
 | A claim worked in a month | $1.00, down to $0.50 |
 | An appeal sent to a payer | $5.00, down to $3.50 |
-| A workflow run outside claims, such as a fax read or an eligibility check | $0.05, down to $0.02 |
 | Setting up a workflow for your payers and systems (one time) | $500 |
 
 <a href="https://worklist.health/pricing/"><img src="button-see-pricing.png" alt="See pricing" height="44"></a>
